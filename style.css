@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+image{
+    height: 40%;
+    width: 40%;
+    max-width: 10%;
+    min-zoom: 30%;
+}
+.hello{
+    display: inline;
+    height: 50%;
+    top: 50%;
+    block-size: 4rem;
+    padding: 2rem;
+    background-color: black;
+}
+button{
+    padding: 2rem;
+    background-color: lavender;
+    top: 50%;
+}
+body{
+    background-color: aqua;
+}
